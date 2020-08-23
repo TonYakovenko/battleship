@@ -1,0 +1,13 @@
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/bin/Debug/netcoreapp3.1/Battleship
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/bin/Debug/netcoreapp3.1/Battleship.deps.json
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/bin/Debug/netcoreapp3.1/Battleship.runtimeconfig.json
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/bin/Debug/netcoreapp3.1/Battleship.runtimeconfig.dev.json
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/bin/Debug/netcoreapp3.1/Battleship.dll
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/bin/Debug/netcoreapp3.1/Battleship.pdb
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/obj/Debug/netcoreapp3.1/Battleship.csprojAssemblyReference.cache
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/obj/Debug/netcoreapp3.1/Battleship.csproj.CoreCompileInputs.cache
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/obj/Debug/netcoreapp3.1/Battleship.AssemblyInfoInputs.cache
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/obj/Debug/netcoreapp3.1/Battleship.AssemblyInfo.cs
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/obj/Debug/netcoreapp3.1/Battleship.dll
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/obj/Debug/netcoreapp3.1/Battleship.pdb
+/home/tony/Documents/Study/Programming/DotNet/FinalProject/Battleship/obj/Debug/netcoreapp3.1/Battleship.genruntimeconfig.cache
